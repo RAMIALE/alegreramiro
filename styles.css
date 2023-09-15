@@ -1,0 +1,100 @@
+/* styles.css */
+
+/* Estilo para el encabezado principal */
+h1 {
+    color: #333; /* Cambia el color del texto */
+}
+
+/* Estilo para los botones */
+.btn {
+    background-color: #007bff; /* Cambia el color de fondo del botón */
+    color: #fff; /* Cambia el color del texto del botón */
+}
+
+/* Estilo para el contenedor de publicaciones */
+.list-group {
+    margin-top: 20px; /* Cambia el margen superior del contenedor */
+}
+
+/* Estilo para las tarjetas de publicación */
+.list-group-item {
+    border: 1px solid #ddd; /* Cambia el borde de las tarjetas */
+    margin-bottom: 10px; /* Cambia el margen inferior entre las tarjetas */
+}
+
+/* Estilo para las imágenes de las publicaciones */
+.list-group-item img {
+    max-width: 100%; /* Asegura que las imágenes no se desborden del contenedor */
+}
+
+/* Enlaza aquí tu CSS personalizado si lo tienes para esta vista específica */
+
+/* Estilo para el encabezado principal */
+h1 {
+    color: #333; /* Cambia el color del texto */
+}
+
+/* Estilo para los botones */
+.btn {
+    margin-top: 10px; /* Cambia el margen superior de los botones */
+}
+
+/* Estilo para el formulario de edición */
+.formulario-edicion {
+    background-color: #f4f4f4; /* Cambia el fondo del formulario de edición */
+    border: 1px solid #ccc; /* Cambia el borde del formulario de edición */
+    padding: 20px; /* Cambia el espaciado interno del formulario de edición */
+    border-radius: 5px; /* Agrega bordes redondeados al formulario de edición */
+}
+
+/* Estilo para la imagen relacionada */
+.formulario-edicion img {
+    max-width: 100%; /* Asegura que las imágenes no se desborden del contenedor */
+}
+
+
+/* Estilo para el encabezado principal */
+h1 {
+    color: #333; /* Cambia el color del texto */
+}
+
+/* Estilo para los botones */
+.btn {
+    margin-top: 10px; /* Cambia el margen superior de los botones */
+}
+
+/* Estilo para la confirmación de eliminación */
+.confirmacion-eliminacion {
+    background-color: #f8d7da; /* Cambia el fondo de la confirmación de eliminación */
+    border: 1px solid #f5c6cb; /* Cambia el borde de la confirmación de eliminación */
+    padding: 10px; /* Cambia el espaciado interno de la confirmación de eliminación */
+    border-radius: 5px; /* Agrega bordes redondeados a la confirmación de eliminación */
+}
+
+/* Estilo para la imagen relacionada */
+.confirmacion-eliminacion img {
+    max-width: 100%; /* Asegura que las imágenes no se desborden del contenedor */
+}
+/* Estilo para el encabezado principal */
+h1 {
+    color: #333; /* Cambia el color del texto */
+}
+
+/* Estilo para los botones */
+.btn {
+    background-color: #007bff; /* Cambia el color de fondo del botón */
+    color: #fff; /* Cambia el color del texto del botón */
+}
+
+/* Estilo para el formulario de creación */
+.formulario-creacion {
+    background-color: #f4f4f4; /* Cambia el fondo del formulario de creación */
+    border: 1px solid #ccc; /* Cambia el borde del formulario de creación */
+    padding: 20px; /* Cambia el espaciado interno del formulario de creación */
+    border-radius: 5px; /* Agrega bordes redondeados al formulario de creación */
+}
+
+/* Estilo para la imagen relacionada */
+.formulario-creacion img {
+    max-width: 100%; /* Asegura que las imágenes no se desborden del contenedor */
+}
